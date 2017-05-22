@@ -1,6 +1,6 @@
 ## Jackson
 
-Find more information on the parent Jackson project here:
+Find more information Jackson:
 https://github.com/Buildcave/jackson
 
 We truly believe this software is epic and hope you find it useful.
