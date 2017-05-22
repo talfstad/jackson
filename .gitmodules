@@ -1,0 +1,9 @@
+[submodule "jackson-rs-glue"]
+	path = jackson-rs-glue
+	url = git@github.com:Buildcave/jackson-rs-glue.git
+[submodule "jackson-core"]
+	path = jackson-core
+	url = git@github.com:Buildcave/jackson-core.git
+[submodule "jackson-gui"]
+	path = jackson-gui
+	url = git@github.com:Buildcave/jackson-gui.git
