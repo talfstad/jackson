@@ -1,6 +1,6 @@
 ## Jackson
 
-Find more information Jackson:
+Find more information on Jackson:
 https://github.com/Buildcave/jackson
 
 We truly believe this software is epic and hope you find it useful.
